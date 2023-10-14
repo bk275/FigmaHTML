@@ -32,8 +32,8 @@ All of the Playwright tests need to pass as well.
 
 ## Replace with your Figma project and a link to your site. 
 
-- My Figma Project - [here](https://www.figma.com/file/QVWVFejtGo1pIxXQ0qmHwT/Flux---Figma-Build-Tutorial-(Starter)-(Community)?type=design&node-id=202%3A2&mode=design&t=DM6kK5pNGvHQSU1m-1)
+- My Figma Project - [here]https://www.figma.com/file/x2OLqIJ2cF5pAlhX4z5AZo/Flux---Figma-Build-Tutorial-(Starter)-(Community)?type=design&node-id=0%3A1&mode=design&t=cBzCC4N6p5w5mvDT-1
 
-- GitHub Pages Hosted Project - [here](https://kaw393939.github.io/webdev1-module5/)
+- GitHub Pages Hosted Project - [here]https://bk275.github.io/FigmaHTML/
 
 
